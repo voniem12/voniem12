@@ -75,11 +75,14 @@
           width: 74px;
         }
 			</style>
+			<style>
+				.skills { display: none !important; }
+			</style>
 
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi Aliens!<br/>I'm Trung Quan Dev from the Earth.
+          Hi Aliens!<br/>I'm Vũ Đức Trường from the Earth.
         </div>
         <div class="skills">
           <div class="skills_icon">
